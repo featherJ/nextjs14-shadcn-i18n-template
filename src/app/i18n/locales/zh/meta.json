@@ -1,0 +1,25 @@
+{
+  "home": {
+    "title": "创建 Next 应用",
+    "description": "由 next 创建的应用",
+    "keywords": [
+      "我的关键词1",
+      "我的关键词2",
+      "我的关键词"
+    ],
+    "authors": {
+      "name": "作者名",
+      "url": "https://www.my-url.com"
+    },
+    "creator": "@作者名",
+    "icons": {
+      "icon": "/favicon.ico",
+      "shortcut": "/assets/favicon-16x16.png",
+      "apple": "/assets/apple.png"
+    },
+    "images": [
+      "/assets/og.jpg"
+    ],
+    "locale": "zh-CN"
+  }
+}

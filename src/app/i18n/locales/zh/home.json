@@ -1,0 +1,20 @@
+{
+  "started": "开始编辑吧",
+  "by":"作者 ",
+  "docs":{
+    "title":"文档 ",
+    "description":"查找有关 Next.js 功能和 API 的深入信息。"
+  },
+  "learn":{
+    "title":"学习 ",
+    "description":"通过带有测验的互动课程了解 Next.js！"
+  },
+  "templates":{
+    "title":"模板 ",
+    "description":"探索 Next.js 的入门模板。"
+  },
+  "deploy":{
+    "title":"部署 ",
+    "description":"使用 Vercel 立即将您的 Next.js 站点部署到可共享 URL。"
+  }
+}
